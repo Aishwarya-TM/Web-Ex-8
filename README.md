@@ -129,7 +129,11 @@ function fn(e) {
 ```
 
 ## OUTPUT:
+![Screenshot 2024-04-23 085422](https://github.com/Aishwarya-TM/Web-Ex-8/assets/127846109/98355bc6-658c-4d83-8125-bd905ad62f70)
 
+![Screenshot 2024-04-23 085455](https://github.com/Aishwarya-TM/Web-Ex-8/assets/127846109/1dd9cc44-1e38-4cc8-b7f2-78837af1c6dd)
+
+![Screenshot 2024-04-23 085518](https://github.com/Aishwarya-TM/Web-Ex-8/assets/127846109/6e266744-1763-429a-ab34-24ae32085fe1)
 
 
 

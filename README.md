@@ -131,7 +131,7 @@ function fn(e) {
 ## OUTPUT:
  ![Screenshot 2024-04-23 085422](https://github.com/Aishwarya-TM/Web-Ex-8/assets/127846109/0b43c7c2-1611-4488-ac3b-a400b4bce071)
 
-    ![Screenshot 2024-04-23 085455](https://github.com/Aishwarya-TM/Web-Ex-8/assets/127846109/bcd457bd-5372-4183-9891-58e7d71bd7c8)
+   ![Screenshot 2024-04-23 085455](https://github.com/Aishwarya-TM/Web-Ex-8/assets/127846109/bcd457bd-5372-4183-9891-58e7d71bd7c8)
 
  ![Screenshot 2024-04-23 085518](https://github.com/Aishwarya-TM/Web-Ex-8/assets/127846109/aa61a990-2637-410a-8956-19a6399e82fb)
 

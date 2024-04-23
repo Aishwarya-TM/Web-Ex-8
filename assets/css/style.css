@@ -1,0 +1,19 @@
+body{
+    margin-top: 100px;
+}
+h5{
+    padding-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(197, 31, 31);
+}
+#btn
+{
+    background-color: rgb(134, 6, 141);
+}
+#btn:hover{
+    background-color: #7a1fa2;
+}
+#main
+{
+    background-color: rgb(252, 230, 233);
+}

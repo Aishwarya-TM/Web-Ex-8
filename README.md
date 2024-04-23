@@ -1,5 +1,5 @@
 # Ex.08 Design of a Standard Calculator
-## Date:
+## Date: 23.04.2024
 
 ## AIM:
 To design a web application for a standard calculator with minimum five operations.
@@ -129,12 +129,11 @@ function fn(e) {
 ```
 
 ## OUTPUT:
-![Screenshot 2024-04-23 085422](https://github.com/Aishwarya-TM/Web-Ex-8/assets/127846109/98355bc6-658c-4d83-8125-bd905ad62f70)
+![Screenshot 2024-04-23 085422](https://github.com/Aishwarya-TM/Web-Ex-8/assets/127846109/0b43c7c2-1611-4488-ac3b-a400b4bce071)
 
-![Screenshot 2024-04-23 085455](https://github.com/Aishwarya-TM/Web-Ex-8/assets/127846109/1dd9cc44-1e38-4cc8-b7f2-78837af1c6dd)
+![Screenshot 2024-04-23 085455](https://github.com/Aishwarya-TM/Web-Ex-8/assets/127846109/bcd457bd-5372-4183-9891-58e7d71bd7c8)
 
-![Screenshot 2024-04-23 085518](https://github.com/Aishwarya-TM/Web-Ex-8/assets/127846109/6e266744-1763-429a-ab34-24ae32085fe1)
-
+![Screenshot 2024-04-23 085518](https://github.com/Aishwarya-TM/Web-Ex-8/assets/127846109/aa61a990-2637-410a-8956-19a6399e82fb)
 
 
 ## RESULT:
